@@ -80,6 +80,19 @@ I also bring strong experience from **UAV Ground Control Station software**, tel
 
 ---
 
+## 📂 Public Case Studies
+
+Recruiters can review these public case studies to understand my architecture, UI thinking, and engineering approach without needing access to private source code.
+
+| Case Study | Focus | Skills Demonstrated |
+| --- | --- | --- |
+| [Full-Stack Platform Architecture](./case-studies/fullstack-platform-architecture.md) | End-to-end web platform design | Next.js, NestJS, PostgreSQL, Redis, queues, WebSocket-ready design |
+| [Dashboard UI Case Study](./case-studies/trading-dashboard-ui.md) | Data-heavy frontend UI | React, TypeScript, Vite, Zustand, Recharts, Tailwind CSS |
+| [Light GCS / UAV Software](./case-studies/light-gcs-uav-software.md) | UAV operational software | Qt/QML, C++, telemetry, ArduPilot concepts, log analysis |
+| [Real-Time Interactive UI](./case-studies/realtime-interactive-ui.md) | Live UI and state-driven screens | React/Next.js, TypeScript, real-time state, responsive UI |
+
+---
+
 ## ⭐ Featured Portfolio Projects
 
 | Project | What it Shows | Tech / Focus |
