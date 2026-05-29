@@ -19,6 +19,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="./assets/project-showcase.svg" alt="Project showcase" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -37,7 +41,7 @@ I also bring strong experience from **UAV Ground Control Station software**, tel
 - Develop backend services and APIs using **Node.js / TypeScript**.
 - Design role-based systems for **Admin, Master, User, and operational workflows**.
 - Work with **PostgreSQL, Redis, REST APIs, and WebSocket-ready architecture**.
-- Create real-time dashboards, log viewers, telemetry-style interfaces, and analytics screens.
+- Create real-time dashboards, log viewers, telemetry-style interfaces, logs, analytics, and operational tools.
 - Debug production issues, improve system reliability, and support release validation.
 - Convert business/field requirements into structured software features.
 
