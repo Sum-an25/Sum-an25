@@ -82,7 +82,7 @@ I also bring strong experience from **UAV Ground Control Station software**, tel
 
 ## 🚀 Public Portfolio Project Pages
 
-These pages work like public mini-repositories inside my profile. They are written for recruiters so my architecture and implementation thinking can be reviewed even when original work repositories are private.
+These pages work like public mini-repositories inside my profile. They show my architecture and implementation thinking without requiring access to private source code.
 
 | Project Page | What to Review | Skills Demonstrated |
 | --- | --- | --- |
@@ -95,7 +95,7 @@ These pages work like public mini-repositories inside my profile. They are writt
 
 ## 📂 Public Case Studies
 
-Recruiters can also review deeper public case studies to understand my architecture, UI thinking, and engineering approach without needing access to private source code.
+These deeper public case studies explain my architecture, UI thinking, and engineering approach without requiring access to private source code.
 
 | Case Study | Focus | Skills Demonstrated |
 | --- | --- | --- |
