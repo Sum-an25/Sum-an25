@@ -31,7 +31,7 @@ Visual Screen
 - Debugging interactive state issues
 - Responsive frontend development
 
-## What Recruiters Should Notice
+## Key Takeaway
 
 This project area shows that I can build polished interactive screens where visual presentation, state transitions, user actions, and live updates need to work together reliably.
 
