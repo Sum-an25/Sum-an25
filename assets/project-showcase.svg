@@ -1,0 +1,105 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111f"/>
+      <stop offset="0.55" stop-color="#101827"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="gcs" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+    <linearGradient id="trade" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0ea5e9"/>
+      <stop offset="1" stop-color="#14b8a6"/>
+    </linearGradient>
+    <linearGradient id="aviator" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ef4444"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <style>
+      .title{font:700 44px Inter,Segoe UI,Arial,sans-serif;fill:#f8fafc}
+      .sub{font:500 19px Inter,Segoe UI,Arial,sans-serif;fill:#cbd5e1}
+      .cardTitle{font:700 25px Inter,Segoe UI,Arial,sans-serif;fill:#ffffff}
+      .label{font:600 14px Inter,Segoe UI,Arial,sans-serif;fill:#dbeafe}
+      .small{font:500 13px Inter,Segoe UI,Arial,sans-serif;fill:#cbd5e1}
+      .tiny{font:600 11px Inter,Segoe UI,Arial,sans-serif;fill:#93c5fd;letter-spacing:.08em}
+    </style>
+  </defs>
+
+  <rect width="1200" height="720" rx="34" fill="url(#bg)"/>
+  <path d="M0 520 C210 450 352 610 556 534 C758 459 836 336 1200 424 V720 H0 V520Z" fill="#0f172a" opacity="0.95"/>
+  <path d="M0 150 H1200 M0 300 H1200 M0 450 H1200 M0 600 H1200 M200 0 V720 M400 0 V720 M600 0 V720 M800 0 V720 M1000 0 V720" stroke="#1e293b" stroke-width="1" opacity="0.55"/>
+
+  <text x="600" y="70" text-anchor="middle" class="title">Suman Kumar — Engineering Portfolio</text>
+  <text x="600" y="106" text-anchor="middle" class="sub">Full-stack dashboards • UAV GCS architecture • Real-time game interfaces</text>
+
+  <!-- Light GCS Card -->
+  <g transform="translate(60,150)" filter="url(#shadow)">
+    <rect width="330" height="455" rx="26" fill="#0b1220" stroke="#1e293b"/>
+    <rect x="0" y="0" width="330" height="78" rx="26" fill="url(#gcs)" opacity="0.92"/>
+    <text x="24" y="48" class="cardTitle">Light GCS</text>
+    <text x="24" y="104" class="tiny">UAV GROUND CONTROL SYSTEM</text>
+    <rect x="24" y="124" width="282" height="178" rx="18" fill="#111827" stroke="#334155"/>
+    <path d="M48 260 L112 206 L171 228 L231 165 L283 188" stroke="#22c55e" stroke-width="4" fill="none"/>
+    <circle cx="112" cy="206" r="6" fill="#38bdf8"/>
+    <circle cx="171" cy="228" r="6" fill="#38bdf8"/>
+    <circle cx="231" cy="165" r="6" fill="#38bdf8"/>
+    <path d="M150 181 L185 163 L175 199 Z" fill="#f8fafc"/>
+    <rect x="42" y="322" width="80" height="44" rx="10" fill="#172554" stroke="#2563eb"/>
+    <text x="82" y="349" text-anchor="middle" class="label">AUTO</text>
+    <rect x="130" y="322" width="80" height="44" rx="10" fill="#064e3b" stroke="#10b981"/>
+    <text x="170" y="349" text-anchor="middle" class="label">GPS</text>
+    <rect x="218" y="322" width="70" height="44" rx="10" fill="#431407" stroke="#f97316"/>
+    <text x="253" y="349" text-anchor="middle" class="label">RTL</text>
+    <text x="24" y="398" class="small">Qt/QML • C++ • ArduPilot</text>
+    <text x="24" y="424" class="small">Mission planning • Telemetry</text>
+  </g>
+
+  <!-- Trading Card -->
+  <g transform="translate(435,150)" filter="url(#shadow)">
+    <rect width="330" height="455" rx="26" fill="#0b1220" stroke="#1e293b"/>
+    <rect x="0" y="0" width="330" height="78" rx="26" fill="url(#trade)" opacity="0.92"/>
+    <text x="24" y="48" class="cardTitle">TradingExchange</text>
+    <text x="24" y="104" class="tiny">ROLE-BASED TRADING DASHBOARD</text>
+    <rect x="24" y="124" width="282" height="178" rx="18" fill="#111827" stroke="#334155"/>
+    <path d="M48 244 C80 224 96 250 125 222 S174 184 205 204 S244 238 282 172" stroke="#22c55e" stroke-width="4" fill="none"/>
+    <path d="M48 274 H285" stroke="#334155" stroke-dasharray="6 8"/>
+    <rect x="42" y="148" width="72" height="38" rx="10" fill="#052e16" stroke="#22c55e"/>
+    <text x="78" y="172" text-anchor="middle" class="label">BUY</text>
+    <rect x="122" y="148" width="72" height="38" rx="10" fill="#450a0a" stroke="#ef4444"/>
+    <text x="158" y="172" text-anchor="middle" class="label">SELL</text>
+    <rect x="202" y="148" width="72" height="38" rx="10" fill="#0f172a" stroke="#38bdf8"/>
+    <text x="238" y="172" text-anchor="middle" class="label">P&L</text>
+    <rect x="42" y="322" width="246" height="20" rx="10" fill="#0f172a"/>
+    <rect x="42" y="322" width="170" height="20" rx="10" fill="#38bdf8"/>
+    <rect x="42" y="358" width="246" height="20" rx="10" fill="#0f172a"/>
+    <rect x="42" y="358" width="122" height="20" rx="10" fill="#14b8a6"/>
+    <text x="24" y="414" class="small">React • TypeScript • Vite</text>
+    <text x="24" y="440" class="small">Zustand • Recharts • Tailwind</text>
+  </g>
+
+  <!-- Aviator Card -->
+  <g transform="translate(810,150)" filter="url(#shadow)">
+    <rect width="330" height="455" rx="26" fill="#0b1220" stroke="#1e293b"/>
+    <rect x="0" y="0" width="330" height="78" rx="26" fill="url(#aviator)" opacity="0.92"/>
+    <text x="24" y="48" class="cardTitle">Aviator Game UI</text>
+    <text x="24" y="104" class="tiny">REAL-TIME GAME INTERFACE</text>
+    <rect x="24" y="124" width="282" height="178" rx="18" fill="#111827" stroke="#334155"/>
+    <path d="M48 265 C88 258 128 232 158 202 C190 170 226 148 284 140" stroke="#f97316" stroke-width="5" fill="none"/>
+    <path d="M188 170 L236 158 L217 190 Z" fill="#ef4444"/>
+    <circle cx="244" cy="156" r="6" fill="#fbbf24"/>
+    <text x="165" y="245" text-anchor="middle" style="font:800 52px Inter,Segoe UI,Arial,sans-serif;fill:#ffffff">2.47x</text>
+    <rect x="42" y="322" width="112" height="48" rx="14" fill="#052e16" stroke="#22c55e"/>
+    <text x="98" y="352" text-anchor="middle" class="label">BET</text>
+    <rect x="174" y="322" width="112" height="48" rx="14" fill="#450a0a" stroke="#ef4444"/>
+    <text x="230" y="352" text-anchor="middle" class="label">CASHOUT</text>
+    <text x="24" y="414" class="small">Canvas UI • Game state</text>
+    <text x="24" y="440" class="small">Realtime hooks • Betting flows</text>
+  </g>
+
+  <text x="600" y="670" text-anchor="middle" class="sub">Projects built around clean UI, scalable architecture, real-time workflows, and production debugging.</text>
+</svg>
