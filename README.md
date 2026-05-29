@@ -3,6 +3,11 @@
 <h3 align="center">Senior Software Engineer | Full-Stack Developer | JavaScript / TypeScript | React | Node.js</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Full--Stack%20Developer%20Roles-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=for-the-badge" />
+</p>
+
+<p align="center">
   <a href="mailto:suman2522@outlook.com">
     <img src="https://img.shields.io/badge/Email-suman2522%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -68,6 +73,16 @@ I also bring strong experience from **UAV Ground Control Station software**, tel
   <img src="https://img.shields.io/badge/Qt_QML-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
+---
+
+## ⭐ Featured Portfolio Projects
+
+| Project | What it Shows | Tech / Focus |
+| --- | --- | --- |
+| [TheExchange](https://github.com/GameLobbyProject/TheExchange) | Full-stack TypeScript monorepo, backend/API architecture, real-time platform thinking | Next.js, NestJS, PostgreSQL, Redis, BullMQ, Socket.IO-ready architecture |
+| [TradingExchange](https://github.com/GameLobbyProject/TradingExchange) | Trading dashboard UI, role-based workflows, frontend product architecture | React, TypeScript, Vite, Zustand, Recharts, Tailwind CSS |
+| [slotgame](https://github.com/GameLobbyProject/slotgame) | Modular TypeScript runtime, reusable packages, frontend architecture | TypeScript, npm workspaces, Turbo, Pixi runtime adapters |
 
 ---
 
