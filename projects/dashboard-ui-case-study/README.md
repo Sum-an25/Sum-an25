@@ -32,7 +32,7 @@ React Application
 - Dashboard cards, tables, forms, and analytics sections
 - Responsive design for desktop and mobile layouts
 
-## What Recruiters Should Notice
+## Key Takeaway
 
 This project demonstrates that I can build professional dashboard UIs that are structured, reusable, responsive, and easy to extend.
 
