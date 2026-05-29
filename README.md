@@ -80,9 +80,22 @@ I also bring strong experience from **UAV Ground Control Station software**, tel
 
 ---
 
+## 🚀 Public Portfolio Project Pages
+
+These pages work like public mini-repositories inside my profile. They are written for recruiters so my architecture and implementation thinking can be reviewed even when original work repositories are private.
+
+| Project Page | What to Review | Skills Demonstrated |
+| --- | --- | --- |
+| [Full-Stack Platform Case Study](./projects/fullstack-platform-case-study/README.md) | End-to-end web platform architecture | Next.js, NestJS, PostgreSQL, Redis, queues, WebSocket-ready design |
+| [Dashboard UI Case Study](./projects/dashboard-ui-case-study/README.md) | Data-heavy frontend dashboard structure | React, TypeScript, Vite, Zustand, Recharts, Tailwind CSS |
+| [Light GCS Showcase](./projects/light-gcs-showcase/README.md) | UAV Ground Control Station software experience | Qt/QML, C++, telemetry, ArduPilot concepts, log analysis |
+| [Real-Time UI Showcase](./projects/realtime-ui-showcase/README.md) | Live UI and state-driven interface patterns | React/Next.js, TypeScript, real-time state, responsive UI |
+
+---
+
 ## 📂 Public Case Studies
 
-Recruiters can review these public case studies to understand my architecture, UI thinking, and engineering approach without needing access to private source code.
+Recruiters can also review deeper public case studies to understand my architecture, UI thinking, and engineering approach without needing access to private source code.
 
 | Case Study | Focus | Skills Demonstrated |
 | --- | --- | --- |
