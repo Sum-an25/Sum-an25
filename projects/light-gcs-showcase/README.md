@@ -32,7 +32,7 @@ Mission Planning
 - Flight-mode and operational status awareness
 - Debugging field issues and converting feedback into software improvements
 
-## What Recruiters Should Notice
+## Key Takeaway
 
 This project area shows that I can work on complex operational software where reliability, usability, real-time data, and debugging matter.
 
