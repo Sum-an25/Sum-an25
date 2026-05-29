@@ -1,6 +1,6 @@
 # Full-Stack Platform Case Study
 
-A recruiter-facing public case study for a full-stack TypeScript platform architecture.
+A public case study for a full-stack TypeScript platform architecture.
 
 ## Role
 
@@ -34,7 +34,7 @@ Next.js / React Frontend
 - Shared TypeScript contracts
 - Debugging and release validation
 
-## What Recruiters Should Notice
+## Key Takeaway
 
 This project shows that I can think beyond UI screens and design complete full-stack systems with maintainable boundaries, clear service layers, database-backed workflows, and production-style engineering practices.
 
